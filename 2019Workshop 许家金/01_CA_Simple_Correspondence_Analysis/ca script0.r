@@ -1,0 +1,5 @@
+install.packages("ca")
+library(ca)
+data1<-read.table(file.choose(),header= TRUE, sep="\t", row.names= 1)
+ca.data1<-ca(data1)
+plot(ca.data1)

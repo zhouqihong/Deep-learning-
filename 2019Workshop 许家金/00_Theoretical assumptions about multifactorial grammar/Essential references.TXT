@@ -1,0 +1,14 @@
+Natalia Levshina (2015) How to do Linguistics with R #非常好的，操作步骤很详细，有配套的
+R. H. Baayen (2008) Analyzing Linguistic Data #统计水平比较高
+Dylan Glynn & Justyna Robinson (2014) Corpus Methods for Semantics #这本书有5-600页
+#没有一本好的中文文献，语言类的，可以出一本书。
+R的学习笔记
+
+首选读英文的文献。聚类和MDS多维尺度分析，研究视角，语言变体：英语变体，张炜炜（鲁汶大学）
+研究的难点：包含了很多泪水，怎么标注，标准几千句，要标注每个句子标注10几个特征。
+标注+计算机
+
+研究问题做完后的解释，这个决定就是why，有多元统计，语境因素共同制约。
+前期的标准
+语言学知识和高级统计做一个平衡。
+语料库不仅仅是一套

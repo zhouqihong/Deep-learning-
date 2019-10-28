@@ -1,0 +1,5 @@
+	it v-link ADJ to	it v-link ADJ that	it v-link ADJ for n to	it-v link ADJ wh-
+物理学	556	212	11	12
+计算机科学	530	168	35	10
+历史学	342	294	28	28
+教育学	361	223	27	15
